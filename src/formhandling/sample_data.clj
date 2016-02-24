@@ -1,0 +1,27 @@
+(ns formhandling.sample-data)
+
+(def form-payload
+  {"asage" nil, "asfrequency" nil, "asname" nil,
+   "soccupation" nil, "asrelationship" nil, "asrsyearsapart" nil,
+   "asrsyrsco" nil, "asrsyrsm" nil,
+   "adultds" nil, "adultdshere" nil, "adultoldestage" nil,
+   "adultyoungestage" nil, "borderdetails" nil, "birthcountry" nil,
+   "birthdate" nil, "childds" nil, "childshere" nil,
+   "childoldestage" nil, "childyoungestage" nil, "contactlocation" "Adapt House",
+   "county" nil, "corder" nil, "cadetails" nil,
+   "ddetails" nil, "firstname" nil, "followupactiondate" nil,
+   "followupactions" nil, "followupactiontaken" nil,
+   "followupactiontakendetail" nil, "followupactiontime" nil,
+   "furtheraction" nil, "furtheractiondetails" nil, "gda" nil,
+   "gastation" nil, "heardof" nil, "hintype" "H", "initassessdate" nil,
+   "initassessstaff" nil, "initassesstime" nil, "ibdetails" nil,
+   "lastname" nil, "maidenname" nil, "medetails" nil,
+   "mstatus" nil, "nationality" nil, "occupation" nil,
+   "ordnonedetails" nil, "ordunknowndetails" nil, "prevcontactdate" nil,
+   "prevcontactdetails" nil, "pprem" "Domestic Abuse",
+   "podetails" nil, "refagency" nil, "refname" nil,
+   "reftelephone" nil, "roffered" nil, "rsought" nil,
+   "rtaken" nil, "refusdetails" nil, "sodetails" nil,
+   "slfref" "on", "sndetails" nil, "situation" nil, "street1" nil,
+   "street2" nil, "stdetails" nil, "telephone" nil, "timeofcontact" nil,
+   "town" nil})
