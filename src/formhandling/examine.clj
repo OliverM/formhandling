@@ -6,7 +6,7 @@
 
 (defvalidator
   required
-  "firstname" ec/required ec/is-string
+  "firstname" ec/required [ec/is-string "Firstname should be text."]
   "lastname" ec/required ec/is-string
   "timeofcontact" ec/required
   "pprem" ec/required ec/is-string
